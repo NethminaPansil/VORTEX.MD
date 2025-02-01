@@ -96,14 +96,14 @@ const buttons = [
 {buttonId: prefix + 'dojjjjjjj🥺nu' , buttonText: {displayText: '𝙳💝w✅w✅wn♕'}, type: 1},
 
 {buttonId: prefix + 'cnsnnsnsnsnsnu' , buttonText: {displayText: 'jsjsjsjsjjsjsjsnsnsnns💀💀'}, type: 1},
-{buttonId: prefix + 'mnsnnsnnsu' , buttonText: {displayText: '𝐀  𝐋  𝐄  𝐗  -  𝐌  𝐃'}, type: 1},
-{buttonId: prefix + 'moviemenu' , buttonText: {displayText: '𝐀  𝐋  𝐄  𝐗  -  𝐌  𝐃'}, type: 1},
-{buttonId: prefix + '𝐀  𝐋  𝐄  𝐗  -  𝐌  𝐃' , buttonText: {displayText: '𝐀  𝐋  𝐄  𝐗  -  𝐌  𝐃'}, type: 1},
-{buttonId: prefix + 'groupmenu' , buttonText: {displayText: '𝐀  𝐋  𝐄  𝐗  -  𝐌  𝐃'}, type: 1}
+{buttonId: prefix + 'mnsnnsnnsu' , buttonText: {displayText: 'VORTEX MD'}, type: 1},
+{buttonId: prefix + 'moviemenu' , buttonText: {displayText: 'VORTEX MD'}, type: 1},
+{buttonId: prefix + 'VORTEX MD' , buttonText: {displayText: 'VORTEX MD'}, type: 1},
+{buttonId: prefix + 'groupmenu' , buttonText: {displayText: 'VORTEX MD'}, type: 1}
 ]
 const buttonMessage = {
   image: {url: config.LOGO},
-  caption: `*> © 𝑷𝑶𝑾𝑬𝑹𝑬𝑫 𝑩𝒀  𝑨 𝑳 𝑬 𝑿- 𝑴 𝑫*
+  caption: `*> © 𝗩𝗢𝗥𝗧𝗘𝗫 𝗠𝗗 💝*
 
 *🌠Hellow _${pushname}_
 
