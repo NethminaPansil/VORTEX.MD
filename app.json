@@ -1,8 +1,8 @@
 {
-  "name": "DARK-SHUTER-MD-V2",
-  "description": "DARK SHUTER MD simple and essay to deploy wa bot",
-  "logo": "https://github.com/DarksadasYT1/DARK-SHUTER-HARD/blob/main/LOGO/darkshuterv2.jpeg?raw=true",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "multi device", "dark-shuter"],
+  "name": "VORTEX_MD",
+  "description": "A Simple WhatsApp bot made by Pansilu Nethmina 🥱🍂",
+  "logo": "https://i.ibb.co/r7jFsbr/2f762379a60b8404.jpg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "multi device", "vortex_md"],
   "success_url": "/",
 
   "env": {
