@@ -1,9 +1,9 @@
 {
-"name": "Dark shuter-md",    
-"version": "2.0.0",
+"name": "VORTEX_MD",    
+"version": "1.0.0",
 "scripts": {
-"start": "pm2 start index.js --deep-monitoring --attach --name Dark-shuter",
-"stop": "pm2 stop Dark-shuter",
+"start": "pm2 start index.js --deep-monitoring --attach --name VORTEX_MD",
+"stop": "pm2 stop VORTEX_MD",
 "restart": "git pull && npm stop && npm start",
 "stash": "git stash && git stash drop"
 },
