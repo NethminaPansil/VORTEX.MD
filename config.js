@@ -6,10 +6,10 @@ function convertToBool(text, fault = 'true') {
 
 //gg
 module.exports = {
-SESSION_ID: 'DARK-SHUTER-MD=139G2ZbC#kWsHxGzdrsdWaemNP06UrqSLCyZc96Ciqfu6vOxDbQA',
+SESSION_ID: 'e7gx0ZzQ#fqAr3M30Jr37J_TCFvAueKP3HpPr0621DVS7I3sC07w',
 
-GITHUB_TOKEN: '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',
-REPO_NAME: 'FFFFFJ',
-GITHUB_USER_NAME: 'DarksadasYT12',
+GITHUB_TOKEN: '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',
+REPO_NAME: 'VORTEX.MD',
+GITHUB_USER_NAME: 'NethminaPanail',
 
 };
