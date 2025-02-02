@@ -6,7 +6,7 @@ function convertToBool(text, fault = 'true') {
 
 //gg
 module.exports = {
-SESSION_ID: 'e7gx0ZzQ#fqAr3M30Jr37J_TCFvAueKP3HpPr0621DVS7I3sC07w',
+SESSION_ID: 'VORTEX_MD=e7gx0ZzQ#fqAr3M30Jr37J_TCFvAueKP3HpPr0621DVS7I3sC07w',
 
 GITHUB_TOKEN: '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',
 REPO_NAME: 'VORTEX.MD',
