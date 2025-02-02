@@ -103,7 +103,7 @@ const buttons = [
 ]
 const buttonMessage = {
   image: {url: config.LOGO},
-  caption: `*> © 𝗩𝗢𝗥𝗧𝗘𝗫 𝗠𝗗 💝*
+  caption: `*> ©𝗩𝗢𝗥𝗧𝗘𝗫_𝗠𝗗_💝*
 
 *🌠Hellow _${pushname}_
 
