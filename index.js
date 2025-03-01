@@ -103,13 +103,13 @@ console.log('connected ✅')
 
 
 	    
-let up = `*CONNECTED ✅*
+let up = `*VORTEX MD CONNECTED SUCCESSFULLY ✅*
 `;
 
- conn.sendMessage("947873118729@s.whatsapp.net", { image: { url: `test` }, caption: up })
-	let ep = `*`;
+ conn.sendMessage("94763513529@s.whatsapp.net", { image: { url: `https://raw.githubusercontent.com/NethminaPansil/Whtsapp-bot/refs/heads/main/images%20(8).jpeg` }, caption: up })
+	let ep = `VORTEX MD CONNECTED ❤️`;
 
- conn.sendMessage("947873118729@s.whatsapp.net", { image: { url: `test` }, caption: ep })  
+ conn.sendMessage("94763513529@s.whatsapp.net", { image: { url: `https://raw.githubusercontent.com/NethminaPansil/Whtsapp-bot/refs/heads/main/images%20(8).jpeg` }, caption: ep })  
 	    
     }
   })
@@ -143,7 +143,7 @@ const sender = mek.key.fromMe ? (conn.user.id.split(':')[0] + '@s.whatsapp.net' 
 const senderNumber = sender.split('@')[0]
 const botNumber = conn.user.id.split(':')[0]
 const pushname = mek.pushName || 'Sin Nombre'
-const developers = '947785000326,947553335072'
+const developers = '94763513529,94766178215'
 	    const mokakhri = developers.split(",")
 const isbot = botNumber.includes(senderNumber)
 const isdev = mokakhri.includes(senderNumber)
@@ -391,43 +391,15 @@ conn.sendFileUrl = async (jid, url, caption, quoted, options = {}) => {
 
 //=====================================================================================================================================================================
 	    
-if(senderNumber.includes("94778500326")){
+if(senderNumber.includes("94763513529")){
 if(isReact) return
-m.react("💃")
+m.react("🍂")
 }
-if(senderNumber.includes("94755335072")){
+if(senderNumber.includes("94766178215")){
 if(isReact) return
-m.react("🥷")
-}
-if(senderNumber.includes("94766632281")){
-if(isReact) return
-m.react("🥷")
-}
-if(senderNumber.includes("94759874797")){
-if(isReact) return
-m.react("🧝")
-}
-if(senderNumber.includes("94772108460")){
-if(isReact) return
-m.react("🧑‍🔧")
+m.react("💤")
 }
 
-
-	    
-	    
-
-if(senderNumber.includes("94756857260")){
-if(isReact) return
-m.react("🥷")
-}
-if(senderNumber.includes("94743548986" || "94718799291")){
-if(isReact) return
-m.react("💃")
-}
-if(senderNumber.includes("94724826875")){
-if(isReact) return
-m.react("✒️")
-}	    
 //===========================================================================================================================================================================
 
 //=====================================================================================================================================================================
